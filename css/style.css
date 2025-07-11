@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* balise */
+span {
+    color: green;
+}
+
+h2 {
+    color: cyan;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    opacity: 20%;
+}
+
+table, tr, th, td {
+    border: 2px dotted;
+    border-collapse: collapse;
+    background-color: azure;
+}
+/* class */
+.titre_1 {
+    color: magenta;
+}
+
+.titre_3 {
+    color: greenyellow;
+}
+
+.titre_5 {
+    color: orange;
+}
+/* id  */
+#titre_2 {
+    color: #d9a518;
+}
+
+#titre_4 {
+    color: red;
+}
+
